@@ -20,33 +20,7 @@ If you haven’t done that yet, check out this [Git Setup Guide](https://github.
 
 ---
 
-## 🔒Rules to Keep You Safe
 
-### 1. Don’t mess with `main`
-
-Never merge, commit, or make changes in your `main` branch.  
-The only commands you should need to do with main are:
-
-- `git checkout main`
-- `git pull upstream main`
-
-If you think you need to type any other command with the word `main` in it — **stop and git help** from a peer supporter.
-
----
-
-### 2. When in doubt or things seem missing:
-
-You’re probably just on the wrong branch. Here's your recovery sequence:
-
-1. Don't Panic
-2. Make sure you're on the right branch
-3. Quit your IDE completely (Cursor, VS Code, etc.)
-4. Reopen the IDE
-
-If the file or change is still missing… now you can panic. 
-Or better yet: **git help from a peer supporter.**
-
----
 ## 🪜Workflow Steps
 
 
@@ -179,6 +153,33 @@ remote:
 To github.com:<your-username>/The-AI-Engineer-Challenge.git
  * [new branch]      sXX-assignment -> sXX-assignment
 ```
+
+---
+## 🔒Rules to Keep You Safe
+
+### 1. Don’t mess with `main`
+
+Never merge, commit, or make changes in your `main` branch.  
+The only commands you should need to do with main are:
+
+- `git checkout main`
+- `git pull upstream main`
+
+If you think you need to type any other command with the word `main` in it — **stop and git help** from a peer supporter.
+
+---
+
+### 2. When in doubt or things seem missing:
+
+You’re probably just on the wrong branch. Here's your recovery sequence:
+
+1. Don't Panic
+2. Make sure you're on the right branch
+3. Quit your IDE completely (Cursor, VS Code, etc.)
+4. Reopen the IDE
+
+If the file or change is still missing… now you can panic. 
+Or better yet: **git help from a peer supporter.**
 
 ---
 ## 🤖❌P.S. Don't trust ChatGPT
