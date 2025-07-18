@@ -1,4 +1,4 @@
-# 🧭 Git Homework Workflow Steps 
+# 🧭 Git Homework Workflow 
 
 I have frequently seen during office hours someone who is in **Git hell**. 
 I, too, have struggled with Git — but I refuse to let it _git_ the better of me.
@@ -20,7 +20,7 @@ If you haven’t done that yet, check out this [Git Setup Guide](https://github.
 
 ---
 
-## 🔒 Rules to Keep You Safe
+## 🔒Rules to Keep You Safe
 
 ### 1. Don’t mess with `main`
 
@@ -49,8 +49,6 @@ Or better yet: **git help from a peer supporter.**
 ---
 ## 🪜Workflow Steps
 
-
----
 
 ## 🛫At the beginning of each session
 
